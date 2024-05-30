@@ -12,7 +12,7 @@ I implemented an XGBoost model to predict house prices based on the features in 
 
 ## Results
 
-This project achieved a final ranking of 1487th out of 97,474 participants! This is a very strong result for a first attempt at a Kaggle competition.
+This project achieved a final ranking of **583th out of 97,474** participants! This is a very strong result for a first attempt at a Kaggle competition.
 
 ## Further Exploration
 
